@@ -1,0 +1,9 @@
+*.eml
+.history
+.idea
+/.idea_modules
+*.iml
+server.pid
+/.settings
+target
+.target
